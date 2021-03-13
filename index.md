@@ -1,1 +1,1 @@
-YASP
+Yet Another Stake Pool
