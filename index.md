@@ -1,1 +1,1 @@
-Yet Another Stake Pool
+Yet Another Stake Pool. Simple and reliable.
